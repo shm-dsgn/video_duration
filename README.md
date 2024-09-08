@@ -11,10 +11,16 @@ pip install PyQt6 moviepy
 ## Installation
 
 1. Clone the repository
-   ``` git clone https://github.com/shm-dsgn/video_duration.git ```
+   ``` 
+   git clone https://github.com/shm-dsgn/video_duration.git 
+   ```
 
 2. Go into the folder
-   ``` cd video_duration ```
+   ```
+   cd video_duration
+   ```
 
 3. Run the main.py file
-   ``` python main.py ```
+   ```
+   python main.py
+   ```
