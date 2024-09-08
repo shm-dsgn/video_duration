@@ -5,6 +5,7 @@ QMainWindow, QWidget {
 QLabel {
     font-size: 12px;
     margin-bottom: 5px;
+    color: white;
 }
 QPushButton {
     background-color: #567dbf;
